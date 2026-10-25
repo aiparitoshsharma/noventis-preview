@@ -1,0 +1,9 @@
+:HL["/noventis-preview/_next/static/chunks/2kzn5jyhh4-f8.css","style"]
+:HL["/noventis-preview/_next/static/media/068feab4deafcd0f-s.p.0_kz_z3o_slvt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/noventis-preview/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/noventis-preview/_next/static/chunks/1i1ajz24_efzj.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"ki-automatisierung","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"leistungen","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(de)","h":112,"c":"$Q2"}]]
+0:{"b":"Tp6Tlu52O9YJW8ZVnNgwV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
